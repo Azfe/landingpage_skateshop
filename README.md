@@ -5,6 +5,17 @@ Desarrollo de una landing page para una tienda online de una skateshop ficticia.
 
 El objetivo del proyecto es poner en práctica el prototipo de diseño de la landing page creado inicialmente en Figma y desarrollarlo con código.
 
+## Instalación 
+1. Clonar el repositorio: 
+```bash 
+git clone https://github.com/tuusuario/SkateShopLandingPage.git
+
+2. Navegar al directorio del proyecto:
+```bash
+cd SkateShopLandingPage
+
+3. Abrir el archivo index.html en tu navegador web favorito.
+
 ## Uso
 ### Navegación
 - Utiliza el menú de navegación para explorar las diferentes secciones de la tienda.
