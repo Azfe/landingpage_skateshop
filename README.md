@@ -5,10 +5,13 @@ Desarrollo de una landing page para una tienda online de una skateshop ficticia.
 
 El objetivo del proyecto es poner en práctica el prototipo de diseño de la landing page creado inicialmente en Figma y desarrollarlo con código.
 
-## Uso y navegación
+## Uso
+### Navegación
+- Utiliza el menú de navegación para explorar las diferentes secciones de la tienda.
+- Haz scroll hacia abajo para visualizar los diferentes apartados de la página.
 
+## Tecnologías
 ### Languages ⌨
-
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://img.icons8.com/?size=160&id=Xf1sHBmY73hA&format=png"></code>
 <code><img height="30" src="https://banner2.cleanpng.com/20180718/cbh/4924da87f795e6a7242d3f32fcd4b413.webp"></code>
@@ -23,5 +26,5 @@ El objetivo del proyecto es poner en práctica el prototipo de diseño de la lan
 <code><img height="30" src="https://static-00.iconduck.com/assets.00/apps-figma-icon-1024x1024-cb4t8vyj.png" alt="Figma"></code>
 
 ## Autor
-Nombre: Alex Zapata
-Email: alexzapata1984@gmail.com
+- Nombre: Alex Zapata
+- Email: alexzapata1984@gmail.com
