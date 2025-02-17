@@ -5,6 +5,12 @@ Desarrollo de una landing page para una tienda online de una skateshop ficticia.
 
 El objetivo del proyecto es poner en práctica el prototipo de diseño de la landing page creado inicialmente en Figma y desarrollarlo con código.
 
+## Prototipo
+
+[Prototipo](https://www.behance.net/gallery/212232817/Landing-page-Skateshop)
+
+https://www.behance.net/gallery/212232817/Landing-page-Skateshop
+
 ## Instalación 
 1. Clonar el repositorio: 
 ```bash 
